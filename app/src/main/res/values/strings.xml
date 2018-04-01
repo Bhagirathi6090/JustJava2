@@ -1,0 +1,18 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="_0">$0</string>
+    <string name="price_value">0</string>
+    <string name="order">order</string>
+    <string name="price">price</string>
+    <string name="increment">+</string>
+    <string name="quantity">quantity</string>
+    <string name="decrement">-</string>
+    <string name="incre">+</string>
+    <string name="quantiy_text_view">0</string>
+    <string name="order_summary">order summary</string>
+    <string name="toppings">toppings</string>
+    <string name="whiped_cream">Whiped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="name">Name<xliff:g id='name' name='amy'> </xliff:g></string>
+</resources>
+
